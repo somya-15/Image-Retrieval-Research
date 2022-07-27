@@ -24,3 +24,4 @@ This file includes the evaluation of trained models on the Revisited Oxford and 
 ##### Model Performance Visualization:
 <img width="302" alt="Screenshot 2022-07-27 at 11 09 36 AM" src="https://user-images.githubusercontent.com/73076997/181169698-40aac7f6-1bb1-46eb-9e91-80aa571c7d08.png">
 
+Research Paper Link- https://drive.google.com/file/d/15i7yasSbQWF_opF0E8U2aUinzkqzEmy2/view?usp=sharing
