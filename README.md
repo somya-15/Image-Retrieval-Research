@@ -2,7 +2,7 @@
 
 #### Subject:- Computer VIsion
 
-##### Dataset Used-
+##### Dataset Used:
 ##### Training- Google Landmarks v2 Mini (Downsampled to 50 classes)
 ##### Evaluation- Revisited Oxford and Paris Dataset
 
